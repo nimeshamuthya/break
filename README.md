@@ -1,2 +1,3 @@
 # break
-# An assitant to keep you happy, healthy and sane while computing
+
+An assitant to keep you happy, healthy and sane while computing
